@@ -1,0 +1,21 @@
+#global{
+    border: 1px;
+    background-color: purple;
+    height: 1000px;
+}
+
+#header{
+    border: 1px;
+    background-color: pink;
+    height: 90px;
+    margin: 5px;
+    padding: 5px;
+}
+
+#contenu{
+    border: 1px;
+    background-color: bisque;
+    height: 900px;
+    margin: 5px;
+    padding: 5px;
+}
